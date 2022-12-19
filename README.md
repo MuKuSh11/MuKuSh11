@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @DevMunesh
+- 👋 Hi, I’m @MuKuSh
 - 👀 I’m interested in 💻, 📱
-- 🌱 I’m currently learning #Magento
-- 💞️ I’m looking to collaborate on #Magento
 - 📫 How to reach me? Well, drop a mail on munesh.developer@gmail.com
 
 <!---
